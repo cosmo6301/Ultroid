@@ -15,34 +15,34 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
+            "description": "18977745",
             "value": "", 
             "required": false
         },
         "API_HASH": {
-            "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
+            "description": "6ad527da2f16d044cdcbd8bee8b0edc7",
             "value": "",
             "required": false
         },
         "SESSION": {
-            "description": "Session String (telethon or pyrogram) for your telegram user account. The userbot will NOT work without a session string!!",
+            "description": "1ApWapzMBu4ZNLa2wIUgEu5PAwusv3-Jig9SwP8HVeulSmnU2UISBFLBolFbM1sXLDrqB6godSbx52BxUmWyskVHVIRM6vRe07gPq0ffYhf2B_kaTBg9b_TGyNLNyBZvjfGH43SZBz1RCIRGxRAxUK8As_p0neKsUwTRnsgRbGaejYuO7Kf3As8TVI_HEXZkXL-rylIdN89hJIKG1V-zBw4S9m32Mh_IVkXeBQ7Cml3JdSQip6ruArGzw6-vp1CKoGmLQA2aCv0UJ6mkWVVClVkfGeMa9F26R4v3vCZK6R3OYXsXdvAJ88o-mMMRrr5PWZR5Wmyz61o0H3iiYS7gMJm9F5LUShDQ=",
             "value": ""
         },
         "REDIS_URI": {
-            "description": "Redis endpoint URL, from redislabs.com",
+            "description": "redis-13188.c239.us-east-1-2.ec2.cloud.redislabs.com:13188",
             "value": ""
         },
         "REDIS_PASSWORD": {
-            "description": "Redis endpoint password, from redislabs.com",
+            "description": "87PB5NIxrq0tKExL0UwxNlyhIRIDrqzx",
             "value": ""
         },
         "HEROKU_API": {
-            "description": "Heroku API token. Mandatory for Heroku Deploy...",
+            "description": "7def9b11-72e3-4752-b5bd-48ab934a20de",
             "value": "",
             "required": false
         },
         "HEROKU_APP_NAME": {
-            "description": "Name of your Heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
+            "description": "ultroid_cosmos",
             "value": "",
             "required": false
         }
